@@ -15,6 +15,7 @@ AndroidFileLog_tools/zipalign.exe(4a2e0b760359891e0ac1455ed8447a6)
 AndroidFileLog_tools/signs/default.keystore(27b149eb8e0c74c6cafc06918c3ee834)
 AndroidFileLog_tools/signs/downjoy.keystore(5311e8894a5ca81140feb2bc16681d9a)
 AndroidFileLog_tools/signs/keystoreInfo0.txt(3bcd6e6357397d98d4ef8b2b2999313d)
+files/AddFileLog_20190517_16.38.zip.zip(eea03de00b2167ffc8444047a3407458)
 files/AndroidFileLog_20190516.7z.zip(c727dac959e2ad21270e82b696cb2760)
 
 )待更新文件

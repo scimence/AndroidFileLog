@@ -1,37 +1,24 @@
-# AndroidFileLog
+﻿# AndroidFileLog
 
 #### 介绍
-安卓包logCat修改工具
-
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1. xxxx
-2. xxxx
-3. xxxx
+AndroidFileLog工具，可修改安卓应用。1、输出log至手机文件 2、屏蔽logcat查看log
 
 #### 使用说明
 
-1. xxxx
-2. xxxx
-3. xxxx
+![1](https://scimence.gitee.io/AndroidFileLog/files/pic/10.png)
 
-#### 参与贡献
+#### 1. 修改应用，输出log信息至手机文件（使用修改后的apk，即可在运行时，在手机FileLog目录下查看运行的log信息）
 
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
+![1](https://scimence.gitee.io/AndroidFileLog/files/pic/11.png)
+![1](https://scimence.gitee.io/AndroidFileLog/files/pic/14.png)
+![1](https://scimence.gitee.io/AndroidFileLog/files/pic/12.png)
+![1](https://scimence.gitee.io/AndroidFileLog/files/pic/13.png)
 
+#### 2. 修改应用，屏蔽logcat查看log （屏蔽后，在logcat工具上将无法查看到该应用的运行log信息）
 
-#### 码云特技
+![1](https://scimence.gitee.io/AndroidFileLog/files/pic/15.png)
+![1](https://scimence.gitee.io/AndroidFileLog/files/pic/16.png)
 
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### AndroidFileLog软件下载
+https://scimence.gitee.io/AndroidFileLog/AndroidFileLog.exe
+

@@ -3,7 +3,7 @@
 
 待更新文件(
 
-AndroidFileLog.exe(7a14f15f7d8c9d377ccb03571283660b)
+AndroidFileLog.exe(ef904304c0e3a1c9256c38f533b7b0e7)
 README.en.md(a6cba43c9a4ecbd3382f4bb0722c81dc)
 README.md(eb9ec918798e68956f5bd585143fa4bc)
 AndroidFileLog_tools/apktool.jar(cc057205e7b3a2352383a8cbe52e788)
